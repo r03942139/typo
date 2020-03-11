@@ -55,7 +55,9 @@ group :development, :test do
   gem 'rspec-rails', '~> 2.0'
   gem 'simplecov', :require => false
   #gem 'sqlite3'
-  gem 'cucumber'
+  #gem 'cucumber'
+  gem 'sqlite3', '1.3.6'
+  gem 'cucumber', '1.2.1'
   gem 'cucumber-rails', :require => false
   gem 'cucumber-rails-training-wheels'
   gem 'database_cleaner'
