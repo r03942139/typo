@@ -1,0 +1,6 @@
+HW4 TYPO
+Name: HUNG-YI CHEN
+Homework 4 Github Link: https://github.com/r03942139/typo
+Heroku App Link: https://glacial-harbor-87613.herokuapp.com/setup
+LOG of rspec: https://github.com/r03942139/typo/blob/master/rspec_log.txt
+
